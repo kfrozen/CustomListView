@@ -3,6 +3,7 @@ package com.example.jianqiang.testlistview;
 import java.util.List;
 
 public class Comment {
+	//test
     public String author;
     public String content;
     public String ceshi ;
